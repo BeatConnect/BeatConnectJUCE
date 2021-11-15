@@ -28,7 +28,6 @@ contents.xcworkspacedata
 .deps
 .dirstamp
 profile
-**/MacOSX/build
 **/iOS/build
 **/IDEWorkspaceChecks.plist
 **/Linux/build
